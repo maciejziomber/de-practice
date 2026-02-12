@@ -1,0 +1,6 @@
+# ignore all Json files in the data folder
+data/*.json
+
+# ignore Python cache files (standard practice)
+__pycache__/
+*.pyc
